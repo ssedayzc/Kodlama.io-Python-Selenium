@@ -38,3 +38,6 @@ if (odev2 == "True"or odev2 == "true"):
     progressBar += 25
 
 print(f"{progressBar}% tamamlandı")
+
+
+
